@@ -1,1 +1,1 @@
-console.log("Este commit no debería estar firmado, puesto que no se ha configurado GPG");
+console.log("Este commit debiese ser verificado mediante GPG");
