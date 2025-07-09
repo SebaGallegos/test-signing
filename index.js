@@ -1,1 +1,1 @@
-console.log("Este commit no debería estar firmado");
+console.log("Este commit debería estar firmado por medio de GPG/SSH");
