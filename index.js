@@ -1,1 +1,1 @@
-console.log("Este commit debiese ser verificado mediante GPG");
+console.log("Probando nueva clave GPG en Win10.");
