@@ -1,1 +1,1 @@
-console.log("Probando nueva clave GPG en Win10.");
+console.log("Probando nueva clave GPG en Win11 pro.");
